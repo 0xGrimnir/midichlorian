@@ -19,7 +19,7 @@ To be used with the [Windows Console Color Tool](https://github.com/Microsoft/co
 
 • Open PowerShell, and navigate to the directory where you extracted `colortool.exe` and the `schemes` folder to.
 
-• Run the following command: `.\colortool.exe midichlorian.itermcolors`
+• Run the following command: `.\colortool.exe -b midichlorian.itermcolors`
 
 • If the terminal doesn't match the screenshot below, right click the terminal and click `Properties` and then select the `Colors` tab. Make sure that the first box, in the row of colored boxes, is highlighted.
 
