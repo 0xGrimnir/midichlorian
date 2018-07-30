@@ -26,3 +26,5 @@ To be used with the [Windows Console Color Tool](https://github.com/Microsoft/co
 #### Author's note: As with everything else, make sure you further customize your PowerShell terminal by selecting an easily readable font, and making sure that your font size is large enough that you don't have to squint at it to read it. Seriously... do your eyes a favor, and set it to at least 14pt. I personally like Consolas myself.
 
 #### Author's note #2: Feel free to tweak, modify, and distribute this however you like. Make life easy: Use [Terminal.Sexy](https://terminal.sexy/) to tweak it to perfection.
+
+![Midichlorian.png](/screenshot/midichlorian.png?raw=true "Optional Title")
